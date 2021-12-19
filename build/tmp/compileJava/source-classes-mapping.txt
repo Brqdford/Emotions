@@ -1,0 +1,6 @@
+com/brqdford/roleplay/maincommand.java
+ com.brqdford.roleplay.maincommand
+com/brqdford/roleplay/crycommand.java
+ com.brqdford.roleplay.crycommand
+com/brqdford/roleplay/hugcommand.java
+ com.brqdford.roleplay.hugcommand
